@@ -21,6 +21,4 @@
         /// <summary>The UDP transport protocol (Reliable)</summary>
         UDPReliable
     }
-
-    
 }

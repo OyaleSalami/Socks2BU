@@ -20,5 +20,15 @@
         {
             //TODO: Implemetation
         }
+
+        public static void GetPing()
+        {
+
+        }
+
+        public static void GetRTT()
+        {
+
+        }
     }
 }
